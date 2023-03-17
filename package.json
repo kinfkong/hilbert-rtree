@@ -8,7 +8,7 @@
     "generate-docs": "npx typedoc --excludePrivate --hideGenerator --includeVersion --readme ./README.md --out docs index.ts"
   },
   "license": "MIT",
-  "main": "./index.ts",
+  "main": "./build/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/jorgenkg/hilbert-rtree.git"
